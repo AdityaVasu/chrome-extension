@@ -1,5 +1,5 @@
 {
-    "name": "Browsing Activity Tracker",
+    "name": " Activity Tracker",
     "author": "Aditya",
     "version": "0.1",
     "description": "Notify a callback URL whenever a webpage is loaded or displayed.",
